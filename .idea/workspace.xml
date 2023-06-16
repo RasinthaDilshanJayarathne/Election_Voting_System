@@ -1,7 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a7b93d4b-1ec8-4e5d-a5eb-325bb603ab9c" name="Default Changelist" comment="" />
+    <list default="true" id="a7b93d4b-1ec8-4e5d-a5eb-325bb603ab9c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app-profile.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/candidate.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/custom.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/dashboard/dashboard-1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/demo.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/dlabnav-init.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/plugins-init/bs-daterange-picker-init.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/plugins-init/calendar.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/plugins-init/chartist-init.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/plugins-init/chartjs-init.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/plugins-init/clock-picker-init.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/plugins-init/datatables.init.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/plugins-init/flot-init.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/plugins-init/fullcalendar-init.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/plugins-init/jquery-asColorPicker.init.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/plugins-init/jquery.validate-init.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/plugins-init/jqvmap-init.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/plugins-init/material-date-picker-init.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/plugins-init/morris-init.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/plugins-init/nestable-init.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/plugins-init/nouislider-init.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/plugins-init/pickadate-init.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/plugins-init/piety-init.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/plugins-init/select2-init.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/plugins-init/sparkline-init.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/plugins-init/sweetalert.init.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/plugins-init/toastr-init.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/plugins-init/widgets-script-init.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/styleSwitcher.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/quota.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/voter.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/voting.html" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,7 +55,6 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -31,6 +66,30 @@
       <recent name="C:\Users\rasintha_j\Desktop\New folder (5)\dmin_dashbaord_v23_html_css_js_bootstap5-main\images\profile\small" />
       <recent name="C:\Users\rasintha_j\Desktop\New folder (5)\dmin_dashbaord_v23_html_css_js_bootstap5-main\images" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Voting_System" type="PythonConfigurationType" factoryName="Python">
+      <module name="Voting_System" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -44,6 +103,8 @@
       <workItem from="1686396831305" duration="339000" />
       <workItem from="1686397214353" duration="33000" />
       <workItem from="1686397275047" duration="9000" />
+      <workItem from="1686397331183" duration="1712000" />
+      <workItem from="1686913010444" duration="1261000" />
     </task>
     <servers />
   </component>
